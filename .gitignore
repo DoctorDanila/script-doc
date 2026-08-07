@@ -11,3 +11,6 @@
 
 # composer itself is not needed
 composer.phar
+
+# composer vendor dir
+/vendor
