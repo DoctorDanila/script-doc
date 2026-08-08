@@ -1,0 +1,28 @@
+{
+  "name": "doctordanila/script-doc",
+  "description": "Render Markdown documentation as web pages",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kuznetsov Danila",
+      "email": "KD89504730600@yandex.ru",
+      "homepage": "https://github.com/DoctorDanila",
+      "role": "Developer"
+    },
+    {
+      "name": "Script Agency",
+      "homepage": "https://github.com/Factum-studio",
+      "role": "Owner"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "cebe/markdown": "^1.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "DoctorDanila\\ScriptDoc\\": "src/"
+    }
+  }
+}
