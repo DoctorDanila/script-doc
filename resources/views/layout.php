@@ -551,7 +551,7 @@
                 <a href="mailto:company@thescript.agency" class="social-link" title="Email">
                     Email
                 </a>
-                <a href="https://github.com/Factum-studio" class="social-link" title="GitHub">
+                <a href="https://github.com/Script-agency" class="social-link" title="GitHub">
                     GitHub
                 </a>
             </div>
